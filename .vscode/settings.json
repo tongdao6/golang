@@ -1,0 +1,7 @@
+{
+    "goCustomFormat.onSave": true,
+    "goCustomFormat.fmtCmds": [
+        "grabbyright"
+    ],
+    "go.inferGopath": false
+}
